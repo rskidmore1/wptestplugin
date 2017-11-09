@@ -4,6 +4,6 @@ Features:
 
 *Settings section with link 
 
-*Peristent check boxes with "Save all changes" button 
+*Persistent check boxes with "Save all changes" button 
 
 *Color selection feature 
